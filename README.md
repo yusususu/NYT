@@ -1,6 +1,4 @@
-# NYT
-NYT Most Popular API Demo App
-
+# NYT Most Popular API Demo Project
 This app supports iPhones and iPads running iOS 12.
 Built with Xcode Version 10.1. Written in Swift 4.2.
 
